@@ -23,8 +23,8 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import starbucks from "./company/cp.jpeg";
+import tesla from "./company/hack.jpeg";
 
 import carrent from "./flight.jpeg";
 import jobit from "./ecom.png";
