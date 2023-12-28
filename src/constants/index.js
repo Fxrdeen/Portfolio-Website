@@ -10,7 +10,7 @@ import {
   reactjs,
   redux,
   tailwind,
-  nodejs,
+  nodejs, 
   mongodb,
   git,
   figma,
@@ -198,30 +198,30 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Flight Crux",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "FlightCrux is an interactive GUI based Application that helps users get the upcoming most cheapest flights with a single click of a button. The Project has been entirely made in Python with the help of modules like Tkinter, Customtkinter, Gmaps, SMTP and Selenium for web scraping. The Application fetches flight itinerary of 3-5 Flights from MakeMyTrip.com using the selenium module for Web Scraping and Send an detailed Email to the user on his registered mail ID which is then saved on a MySQL database which acts as the backend.",
     tags: [
       {
-        name: "react",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Tkinter",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "MySQL",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Fxrdeen/Python-College-Project",
   },
   {
-    name: "Job IT",
+    name: "E-Commerce Platform",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "E-Commerce Web Application based on React that make use of MongoDB Atlas and ExpressJS to store the product details and users can register thier product for sale on the website as well.",
     tags: [
       {
         name: "react",
@@ -232,12 +232,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "MongoDB",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Fxrdeen/React-Project",
   },
   {
     name: "Trip Guide",
