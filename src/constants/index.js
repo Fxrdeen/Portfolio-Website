@@ -10,7 +10,7 @@ import {
   reactjs,
   redux,
   tailwind,
-  nodejs, 
+  nodejs,
   mongodb,
   git,
   figma,
@@ -132,13 +132,13 @@ const experiences = [
     title: "Mentor",
     company_name: "HackerSpace",
     icon: tesla,
-    iconBg: "#383E56", 
+    iconBg: "#383E56",
     date: "Oct 2023 - Present",
     points: [
       "Mentoring college students.",
       "Volunteering in conducting Workshops and Hackathons",
     ],
-  }
+  },
 ];
 
 const testimonials = [
@@ -212,9 +212,9 @@ const projects = [
     source_code_link: "https://github.com/Fxrdeen/React-Project",
   },
   {
-    name: "Trip Guide",
+    name: "Blog App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Blog App which allows users to register, login and post blogs. Made using the MERN stack with React.js and Express.js and specifically used MongoDB Atlas for the backend",
     tags: [
       {
         name: "nextjs",
@@ -230,7 +230,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Fxrdeen/Blog-App",
   },
 ];
 

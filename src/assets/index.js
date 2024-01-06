@@ -28,7 +28,7 @@ import tesla from "./company/hack.jpeg";
 
 import carrent from "./flight.jpeg";
 import jobit from "./ecom.png";
-import tripguide from "./tripguide.png";
+import tripguide from "./blog.png";
 
 export {
   logo,
