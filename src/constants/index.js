@@ -217,15 +217,15 @@ const projects = [
       "A Blog App which allows users to register, login and post blogs. Made using the MERN stack with React.js and Express.js and specifically used MongoDB Atlas for the backend",
     tags: [
       {
-        name: "nextjs",
+        name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "mongoDB Atlas",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "expressjs",
         color: "pink-text-gradient",
       },
     ],
